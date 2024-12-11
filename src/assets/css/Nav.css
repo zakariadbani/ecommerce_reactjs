@@ -1,0 +1,29 @@
+nav {
+  margin-top: 30px;
+  background-color: rgb(26, 6, 142);
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #ffd600;
+}
