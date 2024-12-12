@@ -14,7 +14,7 @@ Ce projet est une application de gestion de panier développée avec **React** e
 # 1. **Cloner le dépôt**
 ###   Clonez le projet depuis GitHub ou téléchargez-le en tant que fichier ZIP.
 
-  git git clone https://zakariadb@bitbucket.org/my_prjs/ecommerce_reactjs.git
+  git clone https://github.com/zakariadbani/ecommerce_reactjs.git
 
 # 2. **Accéder au dossier du projet**
 ### Naviguez vers le dossier du projet cloné :
